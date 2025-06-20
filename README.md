@@ -25,14 +25,18 @@ Go crazy.
 # Themes (Coming in 1.0.2)
 
 Aero:
+
 ![Aero](ReadmePhotos/Aero.png)
 
 Retro:
+
 ![Retro](ReadmePhotos/Retro.png)
 
 Main:
+
 ![Main Theme (Also first one)](ReadmePhotos/Main.png)
 
 Minimal (Dark / White):
+
 ![Minimal Dark](ReadmePhotos/MinimalDark.png)
 ![Minimal Light](ReadmePhotos/MinimalLight.png)
