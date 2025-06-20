@@ -1,42 +1,48 @@
 # sharedyoutube
-Open-Source Python code that lets anyone to add youtube links to a queue
-![Main Theme](ReadmePhotos/Main.png)
 
-# How to use
-Step 1.
+Open-source Python app that lets anyone add YouTube videos to a global shared queue — watch together (almost) in sync.
 
-Install everything you need
-```pip install flask```
+<img src="ReadmePhotos/Main.png" width="300" alt="Main Theme" />
 
-Step 2.
+---
 
-Modify the port if you wont run it as admin
+## how to use
 
-Step 3.
+**1. install dependencies**  
+```bash
+pip install flask
+```
 
-Run it normally.
+**2. (optional) change the port**  
+- if you want to run without admin/root, pick a port above 1024 in `SharedYoutube.py`
 
-```python SharedYoutube.py```
+**3. start the server**  
+```bash
+python SharedYoutube.py
+```
 
-Step 4.
+**4. enjoy and share**  
+- open the URL shown in your terminal  
+- add YouTube links to the queue  
+- watch with others in real-time  
 
-Go crazy.
+---
 
-# Themes (Coming in 1.0.2)
+## themes (coming in v1.0.2)
 
-Aero:
+choose your vibe with these built-in looks:
 
-![Aero](ReadmePhotos/Aero.png)
+### Aero  
+<img src="ReadmePhotos/Aero.png" width="300" alt="Aero Theme" />
 
-Retro:
+### Retro  
+<img src="ReadmePhotos/Retro.png" width="300" alt="Retro Theme" />
 
-![Retro](ReadmePhotos/Retro.png)
+### Main (default)  
+<img src="ReadmePhotos/Main.png" width="300" alt="Main Theme" />
 
-Main:
-
-![Main Theme (Also first one)](ReadmePhotos/Main.png)
-
-Minimal (Dark / White):
-
-![Minimal Dark](ReadmePhotos/MinimalDark.png)
-![Minimal Light](ReadmePhotos/MinimalLight.png)
+### Minimal (Dark / Light)  
+<div style="display: flex; gap: 10px;">
+  <img src="ReadmePhotos/MinimalDark.png" width="300" alt="Minimal Dark" />
+  <img src="ReadmePhotos/MinimalLight.png" width="300" alt="Minimal Light" />
+</div>
