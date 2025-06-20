@@ -21,3 +21,16 @@ Run it normally.
 Step 4.
 
 Go crazy.
+
+# Themes (Coming in 1.0.2)
+
+Aero:
+
+
+Retro:
+
+
+Main:
+
+
+Minimal (Dark / White):
